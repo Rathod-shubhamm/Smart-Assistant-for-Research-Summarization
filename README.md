@@ -1,5 +1,4 @@
-
-![Uploading Screenshot 2025-07-04 at 11.27.05 PM.png…]()
+Youtube walkthrough : https://youtu.be/kHMZzslw7q0
 
 # GenAI Q&A Assistant
 
