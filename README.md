@@ -1,4 +1,6 @@
 
+![Uploading Screenshot 2025-07-04 at 11.27.05 PM.png…]()
+
 # GenAI Q&A Assistant
 
 A GenAI-powered assistant that reads user-uploaded documents and can:
